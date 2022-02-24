@@ -66,6 +66,8 @@ p {
 .card {
     align-items: center;
     border: none;
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
 .info{
     display: flex;
